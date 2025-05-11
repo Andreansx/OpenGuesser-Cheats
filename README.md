@@ -5,7 +5,7 @@ OpenGuesser Cheats is a browser extension that allows you to fetch your current 
 On the OpenGuessr website, there is an iframe that loads an image from Google Maps to display it on your screen. Since this is not secured in any way, the extension searches for this HTML element on the page, retrieves the coordinates assigned to the iframe, and then looks up the corresponding city and country, displaying this information inside the extension.
 
 ## **2. How to Use the Extension**
-**This extension includes four buttons:**
+**This extension includes four buttons: (photo below)**
 
 **1.**  The first button switches the language to English or Polish. However, it's recommended to use English, as country names on the map are in English, making it easier to find specific locations.
 
