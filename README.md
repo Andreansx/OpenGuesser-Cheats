@@ -24,7 +24,7 @@ On the OpenGuessr website, there is an iframe that loads an image from Google Ma
 
 **2.** Open a browser, e.g., Chrome or Brave.
 
-**3.** Enter the following address: 'chrome://extensions' (see image below).
+**3.** Enter the following address: `chrome://extensions` (see image below).
 ![App viev](media/image.png)
 
 **4.** Click the "Enable Developer Mode" button (see image below).
