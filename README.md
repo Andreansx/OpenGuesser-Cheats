@@ -14,4 +14,4 @@ On the OpenGuessr website, there is an iframe that loads an image from Google Ma
 **3.** The third button opens the exact location you’re in on a new tab, but this can only be done after retrieving the location using the previous function.
 
 **4.** The fourth button is not a feature of the extension itself, but simply a redirect to the extension’s GitHub repository.
-![App viev](media/image4)
+![App viev](media/image4.png)
