@@ -31,7 +31,7 @@ On the OpenGuessr website, there is an iframe that loads an image from Google Ma
 
 ![App viev](media/image.png)
 
-**4.** Click the "Enable Developer Mode" button (see image below).
+**4.** Click the enable developer mode button (see image below).
 
 ![App viev](media/image2.png)
 
