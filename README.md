@@ -25,12 +25,22 @@ On the OpenGuessr website, there is an iframe that loads an image from Google Ma
 **2.** Open a browser, e.g., Chrome or Brave.
 
 **3.** Enter the following address: `chrome://extensions` (see image below).
+
 ![App viev](media/image.png)
 
 **4.** Click the "Enable Developer Mode" button (see image below).
+
 ![App viev](media/image2.png)
 
 **5.** Then add the unpacked extension (see image below).
+
 ![App viev](media/image3.png)
 
-You can now pin your extension to keep it always visible and launch it whenever you want.
+You can now pin your extension to keep it always visible and launch it.
+
+## Information
+This extension is licensed under the MIT License, which means it is free to use, modify, and distribute with minimal restrictions, as long as the original license and copyright notice are included.
+
+*I do not support cheating in games. This extension was created for educational purposes only.*
+
+
