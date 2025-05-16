@@ -2,6 +2,7 @@
 
 ![GitHub License](https://img.shields.io/github/license/xarompl/openguesser-cheats?style=for-the-badge)
 [![Static Badge](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto)](https://t.me/mrxarom)
+![GitHub branch check runs](https://img.shields.io/github/check-runs/xarompl/openguesser-cheats/main?style=for-the-badge)
 
 # OpenGuesser-Cheats
 <h4>OpenGuesser Cheats is a browser extension that allows you to fetch your current location, display the country and city you're in, or open a preview on the map.</h4>
@@ -26,32 +27,35 @@
 ![App viev](media/image4.png)
 <div align="center">
   
-## **3. Usage**
+## **3. Installation Guide**
 </div>
 
 * **1.** Download this repository to your computer.
 
-**Using git:**  
-```bash
-git clone https://github.com/xarompl/openguesser-cheats
-```
-**or download ZIP File**
+  **Using Git:**
+  ```bash
+  git clone https://github.com/xarompl/openguesser-cheats
+  ```
+  **Or download the ZIP File** and extract it.
 
-* **2.** Open a browser, e.g., Chrome or Brave.
+* **2.** Open a web browser (e.g., Chrome, Brave, Opera, Edge - all Chromium-based browsers are supported).
 
-* **3.** Enter the following address: `chrome://extensions` (see image below).
+* **3.** In the browser's address bar, type: `chrome://extensions` and press Enter (see image below).
+  *Note: If you are using a browser other than Chrome, this address might be different (e.g., `opera://extensions` for Opera or `edge://extensions` for Edge).*
 
 ![App viev](media/image.png)
 
-* **4.** Click the enable developer mode button (see image below).
+* **4.** Enable "Developer mode" using the toggle switch (see image below).
 
 ![App viev](media/image2.png)
 
-* **5.** Then add the unpacked extension (see image below).
+* **5.** Click the "Load unpacked" button (see image below).
 
 ![App viev](media/image3.png)
 
-You can now pin your extension to keep it always visible and launch it.
+* **6.** In the window that appears, select the `OpenGuesser Cheats` folder (the one you downloaded and extracted in step 1).
+
+* **7.** The extension is now installed! You can pin it to your browser's toolbar for quick access.
 
 ## Licence
 This extension is licensed under the MIT License, which means it is free to use, modify, and distribute with minimal restrictions, as long as the original license and copyright notice are included.
