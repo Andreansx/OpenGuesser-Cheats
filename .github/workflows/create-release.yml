@@ -1,0 +1,28 @@
+name: Create Release on Push to Main
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  release:
+    name: Create Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ github.run_number }}
+          name: Release v${{ github.run_number }}
+          body: |
+            Automated release based on push to main.
+            Commit: ${{ github.sha }}
+          draft: false
+          prerelease: false
