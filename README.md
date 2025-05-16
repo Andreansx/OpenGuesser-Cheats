@@ -1,13 +1,17 @@
+<div align="center">
+
 ![GitHub License](https://img.shields.io/github/license/xarompl/openguesser-cheats?style=for-the-badge)
 [![Static Badge](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto)](https://t.me/mrxarom)
 
 # OpenGuesser-Cheats
-OpenGuesser Cheats is a browser extension that allows you to fetch your current location, display the country and city you're in, or open a preview on the map.
+<h4>OpenGuesser Cheats is a browser extension that allows you to fetch your current location, display the country and city you're in, or open a preview on the map.</h4>
 
 ## **1. How the Extension Works**
-On the OpenGuessr website, there is an iframe that loads an image from Google Maps to display it on your screen. Since this is not secured in any way, the extension searches for this HTML element on the page, retrieves the coordinates assigned to the iframe, and then looks up the corresponding city and country, displaying this information inside the extension.
+<h4>On the OpenGuessr website, there is an iframe that loads an image from Google Maps to display it on your screen. Since this is not secured in any way, the extension searches for this HTML element on the page, retrieves the coordinates assigned to the iframe, and then looks up the corresponding city and country, displaying this information inside the extension.</h4>
 
 ## **2. How to Use the Extension**
+</div>
+
 **This extension includes four buttons: (see image below)**
 
 **1.**  The first button switches the language to English or Polish. However, it's recommended to use English, as country names on the map are in English, making it easier to find specific locations.
@@ -20,30 +24,32 @@ On the OpenGuessr website, there is an iframe that loads an image from Google Ma
 
 
 ![App viev](media/image4.png)
-
+<div align="center">
+  
 ## **3. How to install**
+</div>
 
-**1.** Download this repository to your computer.
+* **1.** Download this repository to your computer.
 
-**2.** Open a browser, e.g., Chrome or Brave.
+* **2.** Open a browser, e.g., Chrome or Brave.
 
-**3.** Enter the following address: `chrome://extensions` (see image below).
+* **3.** Enter the following address: `chrome://extensions` (see image below).
 
 ![App viev](media/image.png)
 
-**4.** Click the enable developer mode button (see image below).
+* **4.** Click the enable developer mode button (see image below).
 
 ![App viev](media/image2.png)
 
-**5.** Then add the unpacked extension (see image below).
+* **5.** Then add the unpacked extension (see image below).
 
 ![App viev](media/image3.png)
 
 You can now pin your extension to keep it always visible and launch it.
 
-## Information
+## Licence
 This extension is licensed under the MIT License, which means it is free to use, modify, and distribute with minimal restrictions, as long as the original license and copyright notice are included.
-
+## Disclaimer
 *I do not support cheating in games. This extension was created for educational purposes only.*
 
 
