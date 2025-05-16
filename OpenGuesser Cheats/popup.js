@@ -4,6 +4,7 @@ const fetchBtn = document.getElementById('btnFetch');
 const openTabBtn = document.getElementById('btnOpenTab');
 const langBtn = document.getElementById('btnLang');
 const output = document.getElementById('output');
+const loader = document.getElementById('loader');
 
 let lastCoords = null;
 let lang = localStorage.getItem('openguesser_lang') || 'en';
@@ -57,10 +58,14 @@ langBtn.addEventListener('click', () => {
 setLang(lang);
 
 fetchBtn.addEventListener('click', () => {
+  loader.style.display = 'block';
+  output.style.display = 'none';
   output.textContent = texts[lang].fetching;
   chrome.tabs.query({ active: true, currentWindow: true }, tabs => {
     const tabId = tabs[0].id;
     chrome.tabs.sendMessage(tabId, { command: 'fetch' }, async response => {
+      loader.style.display = 'none';
+      output.style.display = 'block';
       if (!response) {
         output.textContent = texts[lang].notFound;
         lastCoords = null;
