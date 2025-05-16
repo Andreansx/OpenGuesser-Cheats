@@ -1,6 +1,5 @@
 ![GitHub License](https://img.shields.io/github/license/xarompl/openguesser-cheats?style=for-the-badge)
-
-[![Contact on Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/mrxarom)
+[![Static Badge](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto)](https://t.me/mrxarom)
 
 # OpenGuesser-Cheats
 OpenGuesser Cheats is a browser extension that allows you to fetch your current location, display the country and city you're in, or open a preview on the map.
