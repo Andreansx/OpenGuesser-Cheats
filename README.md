@@ -26,10 +26,16 @@
 ![App viev](media/image4.png)
 <div align="center">
   
-## **3. How to install**
+## **3. Usage**
 </div>
 
 * **1.** Download this repository to your computer.
+
+**Using git:**  
+```bash
+git clone https://github.com/xarompl/openguesser-cheats
+```
+**or download ZIP File**
 
 * **2.** Open a browser, e.g., Chrome or Brave.
 
