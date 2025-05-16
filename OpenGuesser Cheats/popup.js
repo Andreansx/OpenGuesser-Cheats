@@ -1,3 +1,4 @@
+/* global chrome */
 const statusText = document.getElementById('status');
 const fetchBtn = document.getElementById('btnFetch');
 const openTabBtn = document.getElementById('btnOpenTab');
