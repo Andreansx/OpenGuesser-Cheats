@@ -1,4 +1,5 @@
-![License](https://img.shields.io/badge/license-MIT-blue)
+![GitHub License](https://img.shields.io/github/license/xarompl/openguesser-cheats?style=for-the-badge)
+
 [![Contact on Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/mrxarom)
 
 # OpenGuesser-Cheats
