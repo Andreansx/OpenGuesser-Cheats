@@ -26,3 +26,5 @@ jobs:
             Commit: ${{ github.sha }}
           draft: false
           prerelease: false
+permissions:
+  contents: write
